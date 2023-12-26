@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@socket.io/admin-ui": "^0.5.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  },
+  "name": "rplace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type":"module",
+  "scripts": {
+  },
+  "author": "Original by wraithtest & changes by Diman",
+  "license": "MIT",
+  "description": ""
+}
